@@ -1,0 +1,2 @@
+youtube: https://www.youtube.com/watch?v=rxVg3yrc51s&t=540s
+github: https://github.com/murilogustineli/pytorch-plantclef
